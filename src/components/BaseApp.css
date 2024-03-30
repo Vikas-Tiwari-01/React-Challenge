@@ -12,6 +12,8 @@
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
+
+/* create new data in css */
 .table-data {
   padding: 10px;
   text-align: left;
