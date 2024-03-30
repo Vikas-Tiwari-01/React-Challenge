@@ -14,6 +14,7 @@ const BaseApp = () => {
         });
     }, []);
 
+
     const fetchUserData = async () => {
         let response = await fetch(URL);
         console.log(response.ok)
